@@ -40,15 +40,15 @@ English
 
 PERSONAL TRAITS:
 
-Competitive
-Fast learner
-Team player
-Communicative
-Loyal
-Responsible
-Patient
-Honest
-Flexible
+Competitive,
+Fast learner,
+Team player,
+Communicative,
+Loyal,
+Responsible,
+Patient,
+Honest,
+Flexible,
 Hardworker
 
 INTERESTS:
