@@ -17,24 +17,39 @@ Web Development
 Oct 2022 — Present
 Skopje
 Brainster Next College
+---------------------------------------------
 
 SKILLS:
-HTML
-CSS
-JavaScript
-SASS
-React
-jQuery
-ASP.NET MVC
-ASP.NET Core
-Bootstrap
-SQL
-PHP
 
+HTML
+
+CSS
+
+JavaScript
+
+SASS
+
+React
+
+jQuery
+
+ASP.NET MVC
+
+ASP.NET Core
+
+Bootstrap
+
+SQL
+
+PHP
 LANGUAGES:
+
 Macedonian
+
 English
+
 PERSONAL TRAITS:
+
 Competitive
 Fast learner
 Team player
