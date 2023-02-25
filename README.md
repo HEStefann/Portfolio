@@ -1,4 +1,4 @@
-**# Portfolio**
+# Portfolio
 
 Stefan Hadji-Eftimov
 EMAIL: stefanhadjieftimov@gmail.com
