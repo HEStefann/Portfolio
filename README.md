@@ -21,31 +21,21 @@ Brainster Next College
 
 SKILLS:
 
-HTML
-
-CSS
-
-JavaScript
-
-SASS
-
-React
-
-jQuery
-
-ASP.NET MVC
-
-ASP.NET Core
-
-Bootstrap
-
-SQL
-
+HTML,
+CSS,
+JavaScript,
+SASS,
+React,
+jQuery,
+ASP.NET MVC,
+ASP.NET Core,
+Bootstrap,
+SQL,
 PHP
+
 LANGUAGES:
 
-Macedonian
-
+Macedonian,
 English
 
 PERSONAL TRAITS:
