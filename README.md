@@ -53,19 +53,13 @@ Hardworker
 
 INTERESTS:
 
-• Software Engineering
-
-• Web Development
-
-• Gaming
-
-• Travel
-
-• Learning Languages
-
-• Technology
-
-• Outdoor Activities
+Software Engineering,
+Web Development,
+Gaming,
+Travel,
+Learning Languages,
+Technology,
+Outdoor Activities
 
 Practical IT College for Software Engineering
 1. [FrontEnd Weather](https://github.com/HEStefann/FrontEnd-Weather)
