@@ -1,8 +1,9 @@
-# Portfolio
+**# Portfolio**
 
 Stefan Hadji-Eftimov
 EMAIL: stefanhadjieftimov@gmail.com
-EDUCATION:
+
+**EDUCATION:**
 
 2015 — 2019
 Skopje - Macedonia
@@ -17,9 +18,10 @@ Web Development
 Oct 2022 — Present
 Skopje
 Brainster Next College
+Practical IT College for Software Engineering
 ---------------------------------------------
 
-SKILLS:
+**SKILLS:**
 
 HTML,
 CSS,
@@ -33,12 +35,12 @@ Bootstrap,
 SQL,
 PHP
 
-LANGUAGES:
+**LANGUAGES:**
 
 Macedonian,
 English
 
-PERSONAL TRAITS:
+**PERSONAL TRAITS:**
 
 Competitive,
 Fast learner,
@@ -51,7 +53,7 @@ Honest,
 Flexible,
 Hardworker
 
-INTERESTS:
+**INTERESTS:**
 
 Software Engineering,
 Web Development,
@@ -61,6 +63,5 @@ Learning Languages,
 Technology,
 Outdoor Activities
 
-Practical IT College for Software Engineering
 1. [FrontEnd Weather](https://github.com/HEStefann/FrontEnd-Weather)
 2. [FrontEnd Robots](https://github.com/HEStefann/FrontEnd-Robots)
