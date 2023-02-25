@@ -52,12 +52,19 @@ Flexible,
 Hardworker
 
 INTERESTS:
+
 • Software Engineering
+
 • Web Development
+
 • Gaming
+
 • Travel
+
 • Learning Languages
+
 • Technology
+
 • Outdoor Activities
 
 Practical IT College for Software Engineering
