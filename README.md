@@ -15,7 +15,7 @@ Skopje - Macedonia
 SEDC (Seavus Education & Development Center)
 Web Development
 ---------------------------------------------
-Oct 2022 — Present
+Oct 2022 — Present -
 Skopje
 Brainster Next College
 Practical IT College for Software Engineering
@@ -62,6 +62,8 @@ Travel,
 Learning Languages,
 Technology,
 Outdoor Activities
+
+**Some of my work:**
 
 1. [FrontEnd Weather](https://github.com/HEStefann/FrontEnd-Weather)
 2. [FrontEnd Robots](https://github.com/HEStefann/FrontEnd-Robots)
